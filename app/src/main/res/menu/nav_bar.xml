@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title = "Communicate">
+        <menu>
+            <item
+                android:id="@+id/home"
+                android:title="Home"
+                />
+            <item
+                android:id="@+id/recentOrders"
+                android:title="Recent Orders"
+
+                />
+            <item
+                android:id="@+id/Calendar_View"
+                android:title="Calendar View"
+                />
+        </menu>
+    </item>
+
+</menu>
