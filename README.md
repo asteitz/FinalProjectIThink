@@ -4,14 +4,14 @@
 ---
 <span style="font-size: smaller;"><strong> DescriptionDescription </strong> </span>
 I worked to integrate fire store into my project, and was able to create a database. I designed a sign in page and 
-side bar that pops out and alows you to navigate through the pages.
+side bar that pops out and allows you to navigate through the pages.
 
-My app alows you to sign in and then you can access the first page. Then you can look at a restaurant and the items in it!
+My app allows you to sign in and then you can access the first page. Then you can look at a restaurant and the items in it!
 
 
 
  
-To begin I integrated a firestore datbase to handle the user data. I used a recycler view to store the restyrants and display them on the main reminder page (screen)
+To begin I integrated a fire-store database to handle the user data. I used a recycler view to store the restaurants and display them on the main reminder page (screen)
 and it allows for users to scroll and view all reminders without fear of losing the content when it goes off the page!
 <br>
 <br>
@@ -41,6 +41,9 @@ Here's a walkthrough of a few translations:
 ![Recording in GIF of Walk Through](https://github.com/jfritz25/Project8ThisIsTheOne/blob/master/app/src/main/java/com/example/project8/convert.gif)
 
 GIF created with [CloudConvert](https://cloudconvert.com/).
+
+![Additionally it can be tested in the google play store here!!](https://play.google.com/apps/internaltest/4701436042033177496)
+
 ---
 
 Ui Difficulties:
