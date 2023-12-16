@@ -3,8 +3,8 @@
 
 ---
 <span style="font-size: smaller;"><strong> DescriptionDescription </strong> </span>
-I worked to integrate fire store into my project, and was able to create a database. I designed a sign in page and 
-side bar that pops out and allows you to navigate through the pages.
+I worked to integrate fire store into my project and was able to create a database. I designed a sign-in page and 
+sidebar that pops out and allows you to navigate through the pages.
 
 My app allows you to sign in and then you can access the first page. Then you can look at a restaurant and the items in it!
 
@@ -12,15 +12,15 @@ My app allows you to sign in and then you can access the first page. Then you ca
 
  
 To begin I integrated a fire-store database to handle the user data. I used a recycler view to store the restaurants and display them on the main reminder page (screen)
-and it allows for users to scroll and view all reminders without fear of losing the content when it goes off the page!
+and it allows users to scroll and view all reminders without fear of losing the content when it goes off the page!
 <br>
 <br>
-The app opens and has a sign in screen that pops up and has a user sign in. 
+The app opens and has a sign-in screen that pops up and has a user sign in. 
 <br>
-After the user enters all fields, then they can press the escape button which takes them to the main screen and they can delete or add notes as they please
+After the user enters all fields, they can press the escape button which takes them to the main screen and they can delete or add notes as they please
 <br>
 <br>
-Then the side bar is used to navigate to other screens like recent orders! 
+Then the sidebar is used to navigate to other screens like recent orders! 
 
 
 ## Functionality
@@ -31,7 +31,7 @@ The following **required** functionality is completed:
 * brought to the home screen
 * goes to recent orders
 
-This is viewable in yhe following video:
+This is viewable in the following video:
 
 ---
 ## Video Walkthrough
@@ -42,7 +42,7 @@ Here's a walkthrough of a few translations:
 
 GIF created with [CloudConvert](https://cloudconvert.com/).
 
-![Additionally it can be tested in the google play store here!!](https://play.google.com/apps/internaltest/4701436042033177496)
+[Additionally it can be tested in the google play store here!!](https://play.google.com/apps/internaltest/4701436042033177496)
 
 ---
 
@@ -52,8 +52,8 @@ Ui Difficulties:
 - Adding the maps
 
 Backend Difficulties:
-- Uploading to firestore
-- Computer died during a mjaor work period so I lost all my work and could not get to a power source
+- Uploading to Firestore
+- My computer died during a major work period so I lost all my work and could not get to a power source
 
 
 ## License
