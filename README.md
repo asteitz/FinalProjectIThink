@@ -42,7 +42,7 @@ Here's a walkthrough of a few translations:
 
 GIF created with [CloudConvert](https://cloudconvert.com/).
 
-###[Additionally it can be tested in the google play store here!!](https://play.google.com/apps/internaltest/4701436042033177496)
+### [Additionally it can be tested in the google play store here!!](https://play.google.com/apps/internaltest/4701436042033177496)
 
 ** fun insert -> This is my family and I at the McDonalds while I charged my laptop and made last minuet processes on the project :)
 ![This is my family and I at the McDonalds while I charged my laptop and made last minuet processes on the project!!](https://github.com/asteitz/FinalProjectIThink/blob/master/mcdonalds.jpeg)
