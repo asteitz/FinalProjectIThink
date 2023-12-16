@@ -29,7 +29,8 @@ The following **required** functionality is completed:
 <br>
 * signing in to the app
 * brought to the home screen
-* goes to recent orders
+* selects drawer menu to see login info
+* signs out of app
 
 This is viewable in the following video:
 
