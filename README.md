@@ -44,10 +44,6 @@ Here's a walkthrough of a few translations:
 GIF created with [CloudConvert](https://cloudconvert.com/).
 
 ### [Additionally it can be tested in the google play store here!!](https://play.google.com/apps/internaltest/4701436042033177496)
-
-** fun insert -> This is my family and I at the McDonalds while I charged my laptop and made last minuet processes on the project :)
-![This is my family and I at the McDonalds while I charged my laptop and made last minuet processes on the project!!](https://github.com/asteitz/FinalProjectIThink/blob/master/mcdonalds.jpeg)
-
 ---
 
 Ui Difficulties:
@@ -58,7 +54,13 @@ Ui Difficulties:
 Backend Difficulties:
 - Uploading to Firestore
 - My computer died during a major work period so I lost all my work and could not get to a power source
+---
 
+**Fun Insert:** This is my family and I at the McDonald's while I charged my laptop and made last-minute processes on the project! 😄
+
+<img src="https://github.com/asteitz/FinalProjectIThink/blob/master/mcdonalds.jpeg" alt="McDonald's" width="400"/>
+
+---
 
 ## License
 
